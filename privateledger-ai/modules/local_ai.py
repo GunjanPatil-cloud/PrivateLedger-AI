@@ -11,6 +11,7 @@ import subprocess
 import json
 import base64
 import requests
+from io import BytesIO
 from pathlib import Path
 from typing import List, Dict, Optional
 
